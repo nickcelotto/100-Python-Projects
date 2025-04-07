@@ -1,4 +1,4 @@
-# Day 2 Project: Tip Calculator
+# Day 2: Tip Calculator
 
 print("Welcome to the tip calculator!")
 
